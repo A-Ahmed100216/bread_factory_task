@@ -1,4 +1,3 @@
-
 # Import relevant libraries and classes
 from naan_factory import NaanFactory
 import unittest
